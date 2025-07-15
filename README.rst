@@ -25,9 +25,7 @@ Feature
 * VXLAN TSO
 * Partial offload is currently removed, but will be added back if needed.
 
-Contact
--------
-hepeng.0320@bytedance.com
+
 
 ============
 Open vSwitch
@@ -156,8 +154,3 @@ Sun Industry Standards Source License 1.1, that is available at:
         http://host-sflow.sourceforge.net/sissl.html
 or the InMon sFlow License, that is available at:
         http://www.inmon.com/technology/sflowlicense.txt
-
-Contact
--------
-
-bugs@openvswitch.org
